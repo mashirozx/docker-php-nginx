@@ -2,7 +2,7 @@ name: Test & build Docker image
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master-no ]
     tags: ['*']
   pull_request:
 
